@@ -7,7 +7,7 @@ SET @ANOINICIAL = :ano_inicial
 SET @ANOFINAL = :ano_final
 SET @MESINICIAL = :mes_inicial
 SET @MESFINAL = :mes_final
- 
+  
 SELECT TAB.EMPRESA,
        TAB.FILIAL,
        TAB.ANO,
